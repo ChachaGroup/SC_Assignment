@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Calculator
 {
-    public static void cal()
+    public void cal()
     {
         float a, b, res;
         char choice, ch;

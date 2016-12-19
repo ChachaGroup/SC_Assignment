@@ -7,6 +7,10 @@ public class Demo {
 			Hubaib accounts = new Hubaib();
 			accounts.register();
 			accounts.login("test", "testt");
+			Calculator caluclator = new Calculator();
+			caluclator.cal();
+			Atiq primeno = new Atiq();
+			primeno.prime();
 	}
 
 }

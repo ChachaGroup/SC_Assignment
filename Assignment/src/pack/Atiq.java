@@ -3,7 +3,7 @@ package pack;
 import java.util.Scanner;
 
 public class Atiq {
-	public static void prime()
+	public void prime()
 	   {		
 		int temp;
 		boolean isPrime=true;
